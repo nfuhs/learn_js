@@ -9,7 +9,7 @@ Links and resources to learn JavaScript
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 
-### Introduction into Node.js
+### Introduction into Node.js:
 
 * [The only Node.js introduction you'll ever need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
 * [nodeschool.io](https://nodeschool.io/)
