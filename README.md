@@ -14,6 +14,10 @@ Links and resources to learn JavaScript
 
 * [What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
 
+### Callback Function Basics:
+
+* [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
+
 ### Introduction into Node.js:
 
 * [The only Node.js introduction you'll ever need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
