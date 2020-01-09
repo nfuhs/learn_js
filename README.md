@@ -18,3 +18,7 @@ Links and resources to learn JavaScript
 
 * [The only Node.js introduction you'll ever need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
 * [nodeschool.io](https://nodeschool.io/)
+
+### Node.js Event-Loop
+
+* [Node.js Under The Hood: Deep Dive Into the Event Loop](https://dev.to/khaosdoctor/node-js-under-the-hood-3-deep-dive-into-the-event-loop-135d)
