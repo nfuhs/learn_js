@@ -28,3 +28,5 @@ Links and resources to learn JavaScript
 ### Node.js Event-Loop
 
 * [Node.js Under The Hood: Deep Dive Into the Event Loop](https://dev.to/khaosdoctor/node-js-under-the-hood-3-deep-dive-into-the-event-loop-135d)
+
+* [JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
