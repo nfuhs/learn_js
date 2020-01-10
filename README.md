@@ -9,6 +9,8 @@ Links and resources to learn JavaScript
 * [JavaScript by Example](https://javascriptbyexample.com/)
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
 
+* [An Introduction to JavaScript](https://javascript.info/intro)
+
 
 ### Inheritance in JavaScript
 
