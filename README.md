@@ -3,7 +3,6 @@ Links and resources to learn JavaScript
 
 ### Introduction into JavaScript
 
-
 * [Wikipedia JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 * [Howto Code in Javascript](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
 * [JavaScript by Example](https://javascriptbyexample.com/)
